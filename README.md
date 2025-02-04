@@ -15,6 +15,7 @@ Getting Started:
     4. Overlay the post-run stain using the Image Alignment tool in Xenium Explorer. A tutorial of how to do this can be found on the 10X Genomics website at https://www.10xgenomics.com/support/software/xenium-explorer/latest/tutorials/xe-image-alignment#prereq
     5. Export the coordinates for the tissue region of interest the Xenium Explorer application into the step2_input_coordinateCSV directory.
 
-    Install any necessary libraries through CRAN before executing the library commands to load them.
-    Execute the commands in the order they are given
-    Final output will be in the step5_output_selectedTranscripts directory
+    - Install any necessary libraries through CRAN before executing the library commands to load them.
+    - Execute the commands in the order they are given
+    - Final output will be in the step5_output_selectedTranscripts directory
+    - Example csv files for coordinates and cellIDs are provided to give context to the expected formats of these files. 
